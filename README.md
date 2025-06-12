@@ -22,6 +22,7 @@ This is a personal portfolio website built using the MERN stack:
 2. Install dependencies and run
    npm install
    npm run dev
+   
   Backend will run at: http://localhost:5000
 
 
