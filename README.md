@@ -12,6 +12,7 @@ This is a personal portfolio website built using the MERN stack:
 1. Go to the client folder:
    cd client
 2. Install and run dependencies
+   
    npm install
    
    npm run dev
@@ -22,6 +23,7 @@ This is a personal portfolio website built using the MERN stack:
 1. Go to the server folder:
    cd server
 2. Install dependencies and run
+   
    npm install
    
    npm run dev
